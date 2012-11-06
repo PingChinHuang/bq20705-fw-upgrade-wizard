@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_description" >Jangan keluarkan bateri apabila parameter upgrade bateri</string>
+ <string name="app_name" >update parameter bateri</string>
+ <string name="upgrade_btn" >Meningkatkan</string>
+ <string name="dismiss_btn" >membatalkan</string>
+ <string name="toast_get_battery_state_service_warning" >Can\'t get BatteryStatsService</string>
+ <string name="toast_remote_exception_warning" >RemoteException is happend.</string>
+ <string name="toast_io_error_warning" >The FileWriter is closed or I/O errors happened.</string>
+ <string name="toast_open_file_failed_warning" >Cannot open file to write.</string>
+ <string name="toast_finish_message" >Finished!</string>
+ <string name="upgrade_confirm_dialog_title" >menegaskan</string>
+ <string name="upgrade_confirm_dialog_text" >Adakah anda yakin untuk melakukan ini?</string>
+ <string name="upgrade_confirm_dialog_ok_btn" >Ya</string>
+ <string name="upgrade_confirm_dialog_cancel_btn" >Tidak ada</string>
+ <string name="upgrade_warning_dialog_title" >Amaran</string>
+ <string name="upgrade_warning_dialog_text" >Jangan keluarkan bateri apabila parameter upgrade bateri</string>
+ <string name="upgrade_warning_dialog_ok_btn" >OK</string>
+</resources>

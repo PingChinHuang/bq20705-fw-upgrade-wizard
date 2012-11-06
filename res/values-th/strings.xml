@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_description" >ไม่ต้องถอดแบตเตอรี่ออกเมื่อแบตเตอรี่อัพเกรด</string>
+ <string name="app_name" >สมัยที่กำลังขึ้น</string>
+ <string name="upgrade_btn" >สมัยที่กำลังขึ้น</string>
+ <string name="dismiss_btn" >ยกเลิก</string>
+ <string name="toast_get_battery_state_service_warning" >Can\'t get BatteryStatsService</string>
+ <string name="toast_remote_exception_warning" >RemoteException is happend.</string>
+ <string name="toast_io_error_warning" >The FileWriter is closed or I/O errors happened.</string>
+ <string name="toast_open_file_failed_warning" >Cannot open file to write.</string>
+ <string name="toast_finish_message" >Finished!</string>
+ <string name="upgrade_confirm_dialog_title" >ยืนยัน</string>
+ <string name="upgrade_confirm_dialog_text" >คุณแน่ใจหรือไม่</string>
+ <string name="upgrade_confirm_dialog_ok_btn" >ใช่</string>
+ <string name="upgrade_confirm_dialog_cancel_btn" >ไม่มี</string>
+ <string name="upgrade_warning_dialog_title" >การเตือน</string>
+ <string name="upgrade_warning_dialog_text" >ไม่ต้องถอดแบตเตอรี่ออกเมื่อแบตเตอรี่อัพเกรด</string>
+ <string name="upgrade_warning_dialog_ok_btn" >ใช่</string>
+</resources>
