@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <string name="software_description">There are newer battery arguments in the system. Upgrade to those battery arguments will provide you more accurate battery information. You can press \&quot;Upgrade\&quot; button to start the upgrading procedures or press \&quot;Dismiss\&quot; button to ignore this notification. </string>
+    <string name="app_name">Battery Parameter Upgrade Wizard</string>
+    <string name="upgrade_btn">Upgrade</string>
+    <string name="dismiss_btn">Dismiss</string>
+    
+    <string name="toast_get_battery_state_service_warning">Can\'t get BatteryStatsService</string>
+    <string name="toast_remote_exception_warning">RemoteException is happend.</string>
+    <string name="toast_io_error_warning">The FileWriter is closed or I/O errors happened.</string>
+    <string name="toast_open_file_failed_warning">Cannot open file to write.</string>
+    <string name="toast_finish_message">Finished!</string>
+    
+    <string name="upgrade_confirm_dialog_title">Confirm</string>
+    <string name="upgrade_confirm_dialog_text">Are you sure to do this?</string>
+    <string name="upgrade_confirm_dialog_ok_btn">Yes</string>
+    <string name="upgrade_confirm_dialog_cancel_btn">No</string>
+    
+    <string name="upgrade_warning_dialog_title">Warning</string>
+    <string name="upgrade_warning_dialog_text">Please DO NOT power off device during upgrading!</string>
+    <string name="upgrade_warning_dialog_ok_btn">OK</string>
+    
+</resources>
+

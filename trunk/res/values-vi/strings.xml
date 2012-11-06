@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+ <string name="software_description" >Không tháo pin khi nâng cấp pin thông số</string>
+ <string name="app_name" >Pin thông số nâng cấp</string>
+ <string name="upgrade_btn" >Nâng cấp</string>
+ <string name="dismiss_btn" >hủy bỏ</string>
+ <string name="toast_get_battery_state_service_warning" >Can\'t get BatteryStatsService</string>
+ <string name="toast_remote_exception_warning" >RemoteException is happend.</string>
+ <string name="toast_io_error_warning" >The FileWriter is closed or I/O errors happened.</string>
+ <string name="toast_open_file_failed_warning" >Cannot open file to write.</string>
+ <string name="toast_finish_message" >Finished!</string>
+ <string name="upgrade_confirm_dialog_title" >Xác nhận</string>
+ <string name="upgrade_confirm_dialog_text" >Bạn có chắc chắn để làm điều này?</string>
+ <string name="upgrade_confirm_dialog_ok_btn" >Có</string>
+ <string name="upgrade_confirm_dialog_cancel_btn" >Không có</string>
+ <string name="upgrade_warning_dialog_title" >Cảnh báo</string>
+ <string name="upgrade_warning_dialog_text" >Không tháo pin khi nâng cấp pin thông số</string>
+ <string name="upgrade_warning_dialog_ok_btn" >OK</string>
+</resources>
