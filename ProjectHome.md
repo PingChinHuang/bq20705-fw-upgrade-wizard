@@ -1,0 +1,1 @@
+It is an application for upgrading TI bq20705 gauge fw. It was based on Android Froyo or above version. It needs TI bq20705 driver to support this feature.
